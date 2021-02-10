@@ -21,7 +21,7 @@ namespace KampIntro
             if (dolarDun > dolarBugun)
             { 
                 Console.WriteLine("Azalış Butonu");
-            }
+            } 
             else if (dolarDun < dolarBugun)
             {
                 Console.WriteLine("Artış Butonu");
